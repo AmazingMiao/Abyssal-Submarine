@@ -1,0 +1,54 @@
+# Unity-generated caches and local settings
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Build output
+/[Bb]uild/
+/[Bb]uilds/
+
+# IDE-generated files
+/.vs/
+/.idea/
+/.vscode/
+/*.csproj
+/*.sln
+/*.slnx
+/*.unityproj
+/*.pidb
+/*.suo
+/*.user
+/*.userprefs
+/*.booproj
+/*.svd
+/*.pdb
+/*.mdb
+/*.opendb
+/*.VC.db
+
+# Unity diagnostics and generated asset folders
+/sysinfo.txt
+/crashlytics-build.properties
+/UpgradeLog.htm
+/Assets/AssetStoreTools*
+/Assets/StreamingAssets/aa/
+/Assets/StreamingAssets/aa.meta
+/Assets/AddressableAssetsData/*/*.bin*
+/Assets/AddressableAssetsData/*/*.bin*.meta
+
+# Existing Unity Version Control / Plastic SCM local workspace
+/.plastic/
+/ignore.conf
+
+# OS files and local secrets
+.DS_Store
+Thumbs.db
+Desktop.ini
+.env
+.env.*
+!.env.example
+*.log
